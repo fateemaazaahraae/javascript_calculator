@@ -4,7 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: hsl(0, 0%, 75%);
+    background-color: hsl(0, 0%, 30%);
 }
 #calculator{
     font-family: Arial, sans-serif;
@@ -52,5 +52,5 @@ button:active{
     background-color: hsl(30, 100%, 60%);
 }
 .ope-btn:active{
-    background-color: hsl(30, 100%, 70%);
+    background-color: hsl(30, 100%, 0%);
 }
