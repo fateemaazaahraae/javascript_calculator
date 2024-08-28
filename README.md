@@ -6,3 +6,8 @@
 
 <h1>Pinky one</h1>
 <img width="700" src="https://github.com/user-attachments/assets/ac5d42f3-cdd7-470e-bbb3-26f25155a685">
+
+
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
